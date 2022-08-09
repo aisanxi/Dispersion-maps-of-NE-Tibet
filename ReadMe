@@ -1,0 +1,14 @@
+
+Package NE_Tibet_Ray_Lov includes Rayleigh and Love wave phase velocities,and Rayleigh wave azimuth anisotropy measurements.
+Please contact sanxi.ai@qq.com for more details when you want to use them for further studies.
+
+for example, the file below records the Rayleigh wave azimuth anisotropy measurements at 6 s.
+NE_Tibet_Ray_Lov/Ray.azi_anisotropy.per_6.lst:
+longitude, latitude, isotropic phase velocity, anisotropy strength, fast direction are listed in each row in sequence
+
+
+the file below records the Rayleigh wave isotropic phase velocities at 32 s
+NE_Tibet_Ray_Lov/Ray.ph.per_32.lst
+longitude, latitude, isotropic phase velocity are listed in each row in sequence
+
+
